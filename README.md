@@ -23,14 +23,17 @@ NdukaAI leverages AI to:
 ## Key Features (Visualized)
 Below are some key screens from the interactive prototype:
 
-### 1. AI-Powered Matching Interface
-![Matching Algorithm Screen](/designs/matching-algorithm-screen.png)
+### 2. NdukaAI Homepage
+(https://github.com/judeonukogu/NdukaAI/blob/main/01-Home.png)
 
-### 2. Digital Marketplace for Startups
-![Marketplace Screen](/designs/marketplace-screen.png)
+### 2. AI-User Profile Builder
+(https://github.com/judeonukogu/NdukaAI/blob/main/02-AI-Profile-Builder.png)
+
+### 2. Apprenticeship Journey Tracking
+(https://github.com/judeonukogu/NdukaAI/blob/main/03-Apprenticeship-Tracker.png)
 
 ## Research & Validation
-This project is backed by extensive research into apprenticeship models, AI algorithms, and Sustainable Development Goals (SDGs). The conceptual framework is designed to address SDG 1 (No Poverty), 4 (Quality Education), 8 (Decent Work), and 9 (Industry, Innovation, and Infrastructure).
+This project is backed by extensive research into apprenticeship models, AI agent, matching algorithms, and Sustainable Development Goals (SDGs). The conceptual framework is designed to address SDG 1 (No Poverty), 4 (Quality Education), 8 (Decent Work), and 9 (Industry, Innovation, and Infrastructure).
 
 
 ## Future Roadmap
